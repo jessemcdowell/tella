@@ -22,5 +22,20 @@ _testmain.go
 *.exe
 *.test
 
-node_modules/
+/public
 .DS_Store
+
+# extra stuff
+node_modules
+/package.json
+/data/
+/content/
+/config*.toml
+/package-lock.json
+/netlify.toml
+/*.config.js
+/archetypes/blog.md
+/archetypes/products.md
+/static/css/custom.css
+/static/img/logo/
+/static/img/slide/
