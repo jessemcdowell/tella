@@ -39,3 +39,6 @@ node_modules
 /static/css/custom.css
 /static/img/logo/
 /static/img/slide/
+
+# a file that gets replaced by tailwind
+/assets/css/style.css
